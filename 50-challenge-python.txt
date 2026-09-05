@@ -1,0 +1,177 @@
+Here’s a proper **50-challenge Python progression**. Don’t speedrun it like a caffeine-addicted goblin. Solve in order.
+
+## Level 1 — Beginner Basics
+
+1. **Positive, Negative, or Zero**
+   Take a number and classify it.
+
+2. **Even or Odd**
+   Check whether a number is even or odd.
+
+3. **Largest of Two Numbers**
+   Print the larger value.
+
+4. **Largest of Three Numbers**
+   Use conditions without `max()`.
+
+5. **Simple Calculator**
+   Perform `+`, `-`, `*`, `/` based on user input.
+
+6. **Multiplication Table**
+   Print the table of a number from 1 to 10.
+
+7. **Sum from 1 to N**
+   Find the total of all numbers from `1` to `n`.
+
+8. **Factorial of a Number**
+   Calculate factorial using a loop.
+
+9. **Count Digits**
+   Count how many digits an integer contains.
+
+10. **Sum of Digits**
+    Example: `5821 → 16`.
+
+---
+
+## Level 2 — Strings and Loops
+
+11. **Reverse a String**
+    First use slicing, then solve without slicing.
+
+12. **Palindrome Checker**
+    Check whether `"madam"` reads the same backward.
+
+13. **Count Vowels**
+    Count vowels while ignoring uppercase/lowercase.
+
+14. **Count Each Vowel**
+    Print separate counts for `a, e, i, o, u`.
+
+15. **Character Frequency**
+    Count how many times each character appears.
+
+16. **Remove Spaces**
+    Remove all spaces from a sentence.
+
+17. **Count Words**
+    Count the words in a sentence.
+
+18. **Longest Word**
+    Find the longest word in a sentence.
+
+19. **Title Case Converter**
+    Capitalize the first letter of every word without using `.title()`.
+
+20. **Anagram Checker**
+    Check whether `"listen"` and `"silent"` are anagrams.
+
+---
+
+## Level 3 — Lists and Collections
+
+21. **Find Maximum in a List**
+    Do not use `max()`.
+
+22. **Find Minimum in a List**
+    Do not use `min()`.
+
+23. **Second Largest Number**
+    Do not use `sort()`.
+
+24. **Remove Duplicates**
+    Preserve the original order and do not use `set()`.
+
+25. **Separate Even and Odd Numbers**
+    Store them in two different lists.
+
+26. **List Intersection**
+    Find common elements between two lists.
+
+27. **Rotate a List**
+    Rotate `[1,2,3,4,5]` right by `2` positions.
+
+28. **Move Zeros to End**
+    Example: `[0,1,0,3,12] → [1,3,12,0,0]`.
+
+29. **Missing Number**
+    Given numbers from `1` to `n` with one missing, find it.
+
+30. **Most Frequent Element**
+    Find the value appearing most often.
+
+---
+
+## Level 4 — Number Logic and Algorithms
+
+31. **Prime Number Checker**
+    Optimize it using the square-root method.
+
+32. **Prime Numbers in a Range**
+    Print all primes between two values.
+
+33. **Fibonacci Sequence**
+    Generate the first `n` Fibonacci numbers.
+
+34. **Armstrong Number**
+    Check whether `153 = 1³ + 5³ + 3³`.
+
+35. **Perfect Number**
+    Check whether a number equals the sum of its proper divisors.
+
+36. **GCD of Two Numbers**
+    Implement Euclid’s algorithm.
+
+37. **LCM of Two Numbers**
+    Find LCM using GCD.
+
+38. **Decimal to Binary**
+    Convert manually without using `bin()`.
+
+39. **Binary to Decimal**
+    Convert manually without using `int(value, 2)`.
+
+40. **Caesar Cipher**
+    Shift letters by a given number while preserving uppercase.
+
+---
+
+## Level 5 — Intermediate Projects
+
+41. **Number Guessing Game**
+    Add attempts, difficulty levels, and replay support.
+
+42. **Rock Paper Scissors**
+    Play against the computer and track scores.
+
+43. **Password Strength Checker**
+    Check length, uppercase, lowercase, digits, and symbols.
+
+44. **Random Password Generator**
+    Let the user select length and character types.
+
+45. **Contact Book**
+    Add, search, update, delete, and display contacts.
+
+46. **Expense Tracker**
+    Store expenses with category, amount, and date.
+
+47. **Quiz Application**
+    Ask multiple-choice questions and calculate the score.
+
+48. **To-Do List CLI**
+    Add, remove, complete, and save tasks to a file.
+
+49. **Bank Account System**
+    Support deposits, withdrawals, balance checks, and transaction history.
+
+50. **Mini File-Based Login System**
+    Register users, hash passwords, log in, and lock accounts after repeated failures.
+
+## Recommended rule set
+
+For Challenges 1–20, avoid advanced shortcuts.
+For Challenges 21–40, write functions and handle edge cases.
+For Challenges 41–50, use files, exceptions, and clean menus.
+
+A strong goal is **2 challenges per day**. That gives you 25 days of solid practice instead of 3 days of copy-paste-induced delusion.
